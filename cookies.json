@@ -1,0 +1,12 @@
+[
+  {
+    "name": "JSESSIONID",
+    "value": "338229BEA558D82851A6BD21F19E6B86",
+    "domain": "parabank.parasoft.com",
+    "path": "/parabank",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
